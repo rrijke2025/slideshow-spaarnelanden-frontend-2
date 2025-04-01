@@ -1,0 +1,16 @@
+
+{
+  "name": "slideshow-spaarnelanden-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-vercel": "^2.0.0",
+    "@sveltejs/kit": "^1.0.0",
+    "svelte": "^3.59.2",
+    "vite": "^4.0.0"
+  }
+}
